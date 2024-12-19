@@ -1,0 +1,15 @@
+C:\Users\onyedika.ezeamama\Desktop\BincomAssessment\BincomAssessment\bin\Debug\net6.0\BincomAssessment.exe
+C:\Users\onyedika.ezeamama\Desktop\BincomAssessment\BincomAssessment\bin\Debug\net6.0\BincomAssessment.deps.json
+C:\Users\onyedika.ezeamama\Desktop\BincomAssessment\BincomAssessment\bin\Debug\net6.0\BincomAssessment.runtimeconfig.json
+C:\Users\onyedika.ezeamama\Desktop\BincomAssessment\BincomAssessment\bin\Debug\net6.0\BincomAssessment.dll
+C:\Users\onyedika.ezeamama\Desktop\BincomAssessment\BincomAssessment\bin\Debug\net6.0\BincomAssessment.pdb
+C:\Users\onyedika.ezeamama\Desktop\BincomAssessment\BincomAssessment\obj\Debug\net6.0\BincomAssessment.csproj.AssemblyReference.cache
+C:\Users\onyedika.ezeamama\Desktop\BincomAssessment\BincomAssessment\obj\Debug\net6.0\BincomAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onyedika.ezeamama\Desktop\BincomAssessment\BincomAssessment\obj\Debug\net6.0\BincomAssessment.AssemblyInfoInputs.cache
+C:\Users\onyedika.ezeamama\Desktop\BincomAssessment\BincomAssessment\obj\Debug\net6.0\BincomAssessment.AssemblyInfo.cs
+C:\Users\onyedika.ezeamama\Desktop\BincomAssessment\BincomAssessment\obj\Debug\net6.0\BincomAssessment.csproj.CoreCompileInputs.cache
+C:\Users\onyedika.ezeamama\Desktop\BincomAssessment\BincomAssessment\obj\Debug\net6.0\BincomAssessment.dll
+C:\Users\onyedika.ezeamama\Desktop\BincomAssessment\BincomAssessment\obj\Debug\net6.0\refint\BincomAssessment.dll
+C:\Users\onyedika.ezeamama\Desktop\BincomAssessment\BincomAssessment\obj\Debug\net6.0\BincomAssessment.pdb
+C:\Users\onyedika.ezeamama\Desktop\BincomAssessment\BincomAssessment\obj\Debug\net6.0\BincomAssessment.genruntimeconfig.cache
+C:\Users\onyedika.ezeamama\Desktop\BincomAssessment\BincomAssessment\obj\Debug\net6.0\ref\BincomAssessment.dll
